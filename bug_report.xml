@@ -1,1 +1,13 @@
 commit changes
+<bug> <id>264606</id> 
+<developer>Thomas ten Cate</
+developer><developer_username>ttencate
+<creation time>2009-02-11 17:30:00
+-0500</creation time> <product>JDT
+</product> <component>UI</component>
+<resolution>fixed</resolution> <bug 
+severity>normal</bug severity> <summary>[extract method] extracting
+return value results in compile error
+</summary> <description>Build ID:
+I20080617-2000 Use Extract Method on 
+'foo' class Bar { boolean foo;
